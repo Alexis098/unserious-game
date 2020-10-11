@@ -18,7 +18,6 @@ h2 {
   animation-name: fade-in;
   animation-duration: 1s;
 }
-
 h2 {
   animation-iteration-count: infinite;
 }
@@ -29,5 +28,20 @@ h2 {
   }
   100% {
     opacity: 1;
+  }
+}
+
+
+.yeah{
+  animation: yeah 2s ease-out;
+}
+
+
+@keyframes yeah{
+  0%{
+    transform:rotate(-600deg) scale(0) rotateY(180deg)
+  }
+  100%{
+    transform: rotate(0deg) scale(1);
   }
 }
