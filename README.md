@@ -5,7 +5,7 @@ https://davidmarsprof.github.io/unserious-game/index.html
 
 Ensemble, par la pratique, nous allons construire un petit jeu qui nous permettra d'apprendre les bases en HTML, CSS et Javascript.
 
-## Day 1 2020/10/05
+## Day 1 2020/10/05 :mask: :computer: :wrench:
 
 ### Au menu
 
@@ -38,15 +38,16 @@ Ensemble, par la pratique, nous allons construire un petit jeu qui nous permettr
 
 
 
-## Day 2 2020/10/12
+## Day 2 2020/10/12 :mask: :computer: :rocket:
+
+On passe la seconde et peut être même la troisième. On va passer encore pas mal de temps sur les outils, GithUb, CodePen, VScode mais cette fois-ci plus d'excuses, tout le monde connait son login / PWD et les PC devraient marcher correctement 
 
 ### Au menu
 
 - Téléchargement des projets depuis codePen
 - Création d'un repo GitHub où on mettra notre projet
-- https://pages.github.com/
 - Upload du projet sur notre repo (pas de comit/pull/push à proprement parler, je laisse ça à d'autres cours)
-- Configuration de notre github pages
+- Configuration de notre github pages https://pages.github.com/
 - Joie et bonheur en voyant notre premier jeu en ligne.
 - Téléchargement et installation de VSCode https://code.visualstudio.com/
 
@@ -72,6 +73,7 @@ Et on n'oubliera pas...
 - les unités px, % etc... 
 - les font-family, font-size etc...
 - éventuellement les animations @keyframes
+- la console dans chrome
 
 ### Ressources utiles
 
