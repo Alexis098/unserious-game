@@ -70,7 +70,7 @@ Et on n'oubliera pas...
 ### Notions abordées
 
 - les couleurs
-- ~~les unités px, % etc... ~~
+- ~~les unités px, % etc...~~
 - ~~les font-family, font-size etc...~~
 - ~~éventuellement les animations @keyframes~~
 - la console dans chrome
