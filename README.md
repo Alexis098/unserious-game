@@ -56,10 +56,10 @@ On rentre dans le vif du sujet...
 - ouverture de notre projet
 - création d'une question qui parle couleur
 - On parlera Hexadécimal, RGB, RGBa...
-- On parlera Style, classe, et .css
-- On parlera Typographie, font-family et google font
-- On parlera px, %, vh, em...
-- On parlera (si on a le temps) keyframes et animation
+- On parlera Style, ~~classe, et .css~~
+- ~~On parlera Typographie, font-family et google font~~
+- ~~On parlera px, %, vh, em...~~
+- ~~On parlera (si on a le temps) keyframes et animation~~
 - On mettra en lien tous nos projets via un "question suivante" qui mènera au projet du voisin.
 
 Et on n'oubliera pas...
@@ -70,17 +70,17 @@ Et on n'oubliera pas...
 ### Notions abordées
 
 - les couleurs
-- les unités px, % etc... 
-- les font-family, font-size etc...
-- éventuellement les animations @keyframes
+- ~~les unités px, % etc... ~~
+- ~~les font-family, font-size etc...~~
+- ~~éventuellement les animations @keyframes~~
 - la console dans chrome
 
 ### Ressources utiles
 
 - https://developer.mozilla.org/fr/docs/Web/CSS/Type_color
-- https://developer.mozilla.org/fr/docs/Web/CSS/length
-- https://developer.mozilla.org/fr/docs/Web/CSS/font-family
-- https://fonts.google.com/
+- ~~https://developer.mozilla.org/fr/docs/Web/CSS/length~~
+- ~~https://developer.mozilla.org/fr/docs/Web/CSS/font-family~~
+- ~~https://fonts.google.com/~~
 - https://pages.github.com/
 
 
