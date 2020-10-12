@@ -1,6 +1,10 @@
+/** import de polices **/
 @import url(https://fonts.googleapis.com/css?family=Press+Start+2P);
+
 body {
   font-family: 'Press Start 2P', cursive;
+  
+  /** permet de centrer les éléments dans la page **/
   display: flex;
   min-height: 100vh;
   flex-direction: column;
@@ -9,15 +13,14 @@ body {
   text-align: center;
 }
 
-body img {
-  border: 1px solid red;
-}
-
+/** faire bouger un peu tout ça **/
 h1,
 h2 {
   animation-name: fade-in;
   animation-duration: 1s;
 }
+
+/** faire clignotter le sous titre **/ 
 h2 {
   animation-iteration-count: infinite;
 }
@@ -31,12 +34,10 @@ h2 {
   }
 }
 
-
+/** une animation de très bon goût **/
 .yeah{
   animation: yeah 2s ease-out;
 }
-
-
 @keyframes yeah{
   0%{
     transform:rotate(-600deg) scale(0) rotateY(180deg)
