@@ -7,9 +7,9 @@ On va aborder les notions que l'on n'a pas eu le temps de voir au dernier cours 
 
 ### Au menu
 
-* petit tour de classe pour voir qui se sent à l'aise et qui a plus de mal.
+* sondage rapide pour voir qui se sent à l'aise et qui a plus de mal.
 * on parle un peu de la manière de travailler avec github et les issues.
-  * petit tour de table voir si j'ai coommuniqué avec tout le monde ou pas.
+  * petit tour de table voir si j'ai communiqué avec tout le monde ou pas.
 - on parle un peu de coordination de projet et de travail d'équipe.
 - on parle un peu d'esthétique, de gameplay, de fil conducteur, d'orthographe :angry: et de la difficulté d'appliquer ces notions quand en plus on doit coder, apprendre et respecter des délais.
 
