@@ -6,9 +6,9 @@ On va aborder les notions que l'on n'a pas eu le temps de voir au dernier cours 
 
 ### Au menu
 
-* petit tour de classe pour voir qui se sent à l'aise et qui a plus de mal.
+* sondage rapide pour voir qui se sent à l'aise et qui a plus de mal.
 * on parle un peu de la manière de travailler avec github et les issues.
-  * petit tour de table voir si j'ai coommuniqué avec tout le monde ou pas.
+  * petit tour de table voir si j'ai communiqué avec tout le monde ou pas.
 - on parle un peu de coordination de projet et de travail d'équipe.
 - on parle un peu d'esthétique, de gameplay, de fil conducteur, d'orthographe :angry: et de la difficulté d'appliquer ces notions quand en plus on doit coder, apprendre et respecter des délais.
 
@@ -46,6 +46,12 @@ Et on n'oubliera pas...
 - les paddings margin border etc...
 - éventuellement les animations @keyframes
 - la console dans chrome
+
+### Pour ceux qui s'ennuient car ça va pas assez vite...
+
+* Posez vous la question de savoir à quoi ça peut bien servir ce fichier https://github.com/davidmarsprof/unserious-game/blob/main/styles/phone.css
+* Essayez d'afficher une icone dans votre onglet (un peu comme sur ma version du projet en fait, je dis ça, je dis rien...)
+* Essayez de résoudre cette énigme https://github.com/davidmarsprof/unserious-game/blob/main/scripts/index.js
 
 ### Ressources utiles
 

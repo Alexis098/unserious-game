@@ -29,4 +29,6 @@
 
 - https://giphy.com/ :grin:
 
-[La suite : Day 2](day-2.md)
+------
+
+[Cours suivant : Day 2](day-2.md)

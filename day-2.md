@@ -2,8 +2,6 @@
 
 On passe la seconde et peut être même la troisième. On va passer encore pas mal de temps sur les outils, GithUb, CodePen, VScode mais cette fois-ci plus d'excuses, tout le monde connait son login / PWD et les PC devraient marcher correctement 
 
-[Lire la suive](day-2.md)
-
 ### Au menu
 
 - Téléchargement des projets depuis codePen
@@ -47,4 +45,4 @@ Et on n'oubliera pas...
 
 ----
 
-[La suite : Day 3](day-3.md)
+[Cours suivant : Day 3](day-3.md)
