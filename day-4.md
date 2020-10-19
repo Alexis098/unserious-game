@@ -11,6 +11,7 @@ On va parler pour ceux qui ne l'ont pas encore fait par eux même de responsive,
   * ils vont nous faire part de leurs difficultés à gérer 20 projets créés par 20 bipèdes.
   * ils vont nous présenter les problèmes techniques les plus courrants.
   * ils vont nommer les 5 coordinateurs de la semaine suivante (2 personnes à l'aise, 2 en difficulté, 1 au pif si possible mixer des gens qui ne se connaissent pas trop pour favoriser les échanges)
+  * ils vont prendre le temps de leur expliquer en quoi consiste leur mission, leur donner des conseils etc..
   
 * On pulle, on ouvre nos éditeurs etc..
 
