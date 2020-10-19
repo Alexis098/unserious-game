@@ -84,7 +84,7 @@ Et on n'oubliera pas...
 - https://pages.github.com/
 
 
-## Day 3 2020/10/19 :mask: :computer: :rocket:
+## Day 3 2020/10/19 :mask: :triangular_ruler: :turtle: 
 
 Le cours précédent on n'a pas eu le temps de trop avancer, donc plutôt que de s'enfoncer dans un rush pédagogique, on va essayer d'identifier les problèmes, les bons points et de mettre en place ensemble une méthodologie pour avancer mieux et plus vite à moyen terme. On reste donc en seconde.
 On va doucement mais sûrement nettoyer notre projet et travailler un peu sur son UI / UX. 
