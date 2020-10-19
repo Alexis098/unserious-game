@@ -5,6 +5,7 @@
   <!--  Meta  -->
   <meta charset="UTF-8" />
   <title>Unserious Game</title>
+  <link rel="icon" href="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ7TC35pup9Blg5wGniJXVXfDNkBSfuIZbmMA&usqp=CAU">
   
   <!--  Styles  -->
   <link rel="stylesheet" href="styles/style.css">
@@ -12,14 +13,17 @@
 <body>
   <img src="https://media.giphy.com/media/A9QSut2FYLYAM/source.gif">
   <h1>Qui est le meilleur ami de Chewbacca?</h1>
-  
-  <br>
-  <a href="loose.html">Palpatine</a>
-  <br><br>
-  <a href="loose.html">Dark Vador</a>
-  <br><br>
-  <a href="win.html">Han Solo</a>
+  <div class="btns-list">
+    <a class="btn" href="loose.html">Palpatine</a>
+    <a class="btn" href="loose.html">Dark Vador</a>
+    <a class="btn" href="win.html">Han Solo</a>
+  </div>
+
   <!-- Scripts -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   <script src="scripts/index.js"></script>
+  <script>
+    startChrono()
+  </script>
 </body>
 </html>

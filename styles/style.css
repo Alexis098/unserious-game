@@ -2,8 +2,10 @@
 @import url(https://fonts.googleapis.com/css?family=Press+Start+2P);
 
 body {
+  background: url(https://media.giphy.com/media/14zSZXA5q24PC/source.gif);
+  color: rgb(250, 253, 247);
   font-family: 'Press Start 2P', cursive;
-  
+
   /** permet de centrer les éléments dans la page **/
   display: flex;
   min-height: 100vh;
@@ -12,6 +14,64 @@ body {
   align-items: center;
   text-align: center;
 }
+
+/** l'image fait toujours la même hauteur **/
+img{
+  margin: 40px;
+  border: 1px solid yellow;
+  padding: 10px;
+  height: 40vh;
+  width: auto;
+}
+/** les titres ne sont pas trop grands **/
+h1,h2{
+  max-width: 800px;
+  line-height: 1.5;
+}
+h1{
+  font-size: 30px;
+}
+h2{
+  font-size: 20px;
+}
+
+
+/** boutons **/
+.btn {
+	box-shadow: 6px 6px 0px 0px #6d4e0b;
+	background:#333;
+	border:1px solid #EEDD0b;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:'Press Start 2P', cursive;
+	font-size:17px;
+	padding:7px 25px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #810e05;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #f24437 5%, #c62d1f 100%);
+	background-color:#f24437;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+
+
+/** liste de boutons **/
+.btns-list{
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 500px;
+  justify-content: center;
+}
+.btn{
+  margin: 15px;
+}
+
+
 
 /** faire bouger un peu tout ça **/
 h1,

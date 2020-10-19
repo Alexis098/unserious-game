@@ -102,7 +102,8 @@ On va aborder les notions que l'on n'a pas eu le temps de voir au dernier cours 
 
 On rentre dans le vif du sujet...
 
-- on pull notre projet
+- on va commencer par nettoyer le projet directement su github (licence, scss, .min etc)
+- on pull notre projet pour travailler en local
 - on va voir comment travailler confortablement
 - - split d'écran
 - - console chrome et hot reloading
