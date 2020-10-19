@@ -51,6 +51,7 @@ Et on n'oubliera pas...
 ### Pour ceux qui s'ennuient car ça va pas assez vite...
 
 * Posez vous la question de savoir à quoi ça peut bien servir ce fichier https://github.com/davidmarsprof/unserious-game/blob/main/styles/phone.css
+* Essayez d'afficher une icone dans votre onglet (un peu comme sur ma version du projet en fait, je dis ça, je dis rien...)
 * Essayez de résoudre cette énigme https://github.com/davidmarsprof/unserious-game/blob/main/scripts/index.js
 
 ### Ressources utiles
