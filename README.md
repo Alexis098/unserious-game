@@ -98,7 +98,7 @@ On va aborder les notions que l'on n'a pas eu le temps de voir au dernier cours 
 - on parle un peu de coordination de projet et de travail d'équipe.
 - on parle un peu d'esthétique, de gameplay, de fil conducteur, d'orthographe :angry: et de la difficulté d'appliquer ces notions quand en plus on doit coder, apprendre et respecter des délais.
 
-- on va nommer une team de 4 coordinateurs et je passerai un peu de temps avec eux.
+- on va nommer une team de 5 coordinateurs et je passerai un peu de temps avec eux.
 
 On rentre dans le vif du sujet...
 
@@ -145,7 +145,7 @@ Et on n'oubliera pas...
 - https://developer.mozilla.org/fr/docs/Web/CSS/font-family
 - https://fonts.google.com/
 
-### Les 4 coordinateurs
+### Les 5 coordinateurs
 
 #### Votre mission
 
@@ -156,15 +156,15 @@ Veiller à ce que nos 25 projets soient cohérents les uns entre les autres et q
 * Veillera à ce que le projet respecte une charte graphique (tailles de typos à peu près similaires, layout centré, boutons...)
 
 * Veillera à ce que le gameplay respecte une charte 
-  * Une seule question / plusieurs réponses
-  * gagné = message de félicitation + question suivante
-  * perdu = message d'humiliation + retour à la question précédente
+  * Une seule question avec une seule image + plusieurs réponses possibles
+  * gagné = message de félicitation + image + question suivante
+  * perdu = message d'humiliation + image + retour à la question précédente
   
-* Rédiger un `compte-rendu.md` :smirk: du projet dans un repo que vous partagerez tous les 4. Vous nous parlerez...
-  * de l'état davancement du projet (une todo ni plus ni moins des trucs à faits / à faire)
-  * des difficultés rencontrées
-  * de ce que vous avez appris de cette expérience 
-  * J'attends une 10aine de phrases **maximum** pour m'expliquer tout ça, pas la peine de me faire une thèse en 24 volumes.
+* Rédiger un `compte-rendu.md` :smirk: du projet dans un repo que vous partagerez tous les 5. Vous nous parlerez...
+  * de l'état davancement du projet (une todo list ni plus ni moins des trucs faits / à faire)
+  * Un bla bla sur les difficultés rencontrées
+  * Un bla bla sur de ce que vous avez appris de cette expérience 
+  * J'attends une 10aine de phrases **maximum** pour m'expliquer tout ça, pas la peine de me faire une thèse en 24 volumes je ne la lirai pas.
 
 #### Vos moyens
 
@@ -173,7 +173,7 @@ Veiller à ce que nos 25 projets soient cohérents les uns entre les autres et q
 * Trello ? :eyes: pour communiquer entre vous et tenir des TODO lists par exemple...
 * Un prof super compatissant qui vous accordera un peu de temps sur discord **entre lundi et mercredi soir** si vous rencontrez des difficultés ou avez des questions.
 
-#### Ce que je ne veux pas
+#### Ce que je ne veux pas :warning: :warning: :warning:
 
 * Que vous mettiez trop d'affect dans cette mission.
 * Que ça vous prenne trop de temps. Si ça doit empiéter sur d'autres matières, vous passez à autre chose je comprendrai.
