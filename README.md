@@ -109,6 +109,7 @@ On rentre dans le vif du sujet...
 
 - on va centrer nos éléments dans la (les) page(s) en piquant un bout de code ici https://github.com/davidmarsprof/unserious-game/blob/main/styles/style.css
 - On parlera Style, classe, et .css
+- on va faire de jolis boutons grace à https://www.bestcssbuttongenerator.com/
 - On parlera Typographie, font-family et google font
 - On parlera px, %, vh, em...
 - On parlera (si on a le temps) keyframes et animation
@@ -127,7 +128,7 @@ Et on n'oubliera pas...
 - les unités px, % etc...
 - les classes css et les feuilles de style
 - les font-family, font-size etc...
-- les paddings margin border
+- les paddings margin border etc...
 - éventuellement les animations @keyframes
 - la console dans chrome
 
@@ -147,11 +148,11 @@ Et on n'oubliera pas...
 
 #### Votre mission
 
-Veiller à ce que nos 25 projets soient cohérents les uns entre les autres et que notre jeu soit agréable, ce qui sous entend:
+Veiller à ce que nos 25 projets soient cohérents les uns entre les autres et que notre jeu soit agréable et pro bien que simpliste, ce qui sous entend:
 
 * Veiller à l'orthographe
 
-* Veillera à ce que le projet respecte une charte graphique (tailles de typos, layout centré, boutons...)
+* Veillera à ce que le projet respecte une charte graphique (tailles de typos à peu près similaires, layout centré, boutons...)
 
 * Veillera à ce que le gameplay respecte une charte 
   * Une seule question / plusieurs réponses
@@ -161,8 +162,8 @@ Veiller à ce que nos 25 projets soient cohérents les uns entre les autres et q
 * Rédiger un `compte-rendu.md` :smirk: du projet dans un repo que vous partagerez tous les 4. Vous nous parlerez...
   * de l'état davancement du projet (une todo ni plus ni moins des trucs à faits / à faire)
   * des difficultés rencontrées
-  * de ce que vous avez ont appris de cette expérience 
-  * J'attends une 10aine de phrases max pour m'expliquer tout ça.
+  * de ce que vous avez appris de cette expérience 
+  * J'attends une 10aine de phrases **maximum** pour m'expliquer tout ça, pas la peine de me faire une thèse en 24 volumes.
 
 #### Vos moyens
 
@@ -177,5 +178,5 @@ Veiller à ce que nos 25 projets soient cohérents les uns entre les autres et q
 * Que ça vous prenne trop de temps. Si ça doit empiéter sur d'autres matières, vous passez à autre chose je comprendrai.
 * Que vous portiez un jugement sur les questions au sens éditorial, tant que ça fonctionne, que ça respecte le gameplay, que ça respecte les lois de la république et que l'orthographe est juste ça me va.
 * Que vous portiez un jugement sur l'esthétique, tant que ça rentre dans la charte ça me va.
-* Que vous vous disputiez ou génériez des tensions. Si une personne ne veut pas vous écouter ou ne fait pas le boulot demandé ça se verra vite keep cool :rainbow: .
+* ***Que vous vous disputiez ou génériez des tensions***. Si une personne ne veut pas vous écouter ou ne fait pas le boulot demandé ça se verra vite keep cool :rainbow:, encore une fois vous n'êtes pas responsables du boulot de chacun, vous êtes là pour coordonner et aider si besoin.
 
