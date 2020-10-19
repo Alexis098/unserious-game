@@ -31,3 +31,9 @@ On va aborder les notions que l'on n'a pas eu le temps de voir au dernier cours 
 
 [Lire la suite](day-3.md)
 
+## Day 4 2020/10/26 :mask: :triangular_ruler: :turtle: 
+
+Le cours précédent nous avons vu pas mal de nouvelles notions que nous allons approfondir par la pratique aujourd'hui.
+On va parler (pour ceux qui ne l'ont pas encore fait par eux même) de responsive, d'animation et de transition.
+
+[Lire la suite](day-4.md)
