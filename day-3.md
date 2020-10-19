@@ -48,6 +48,11 @@ Et on n'oubliera pas...
 - éventuellement les animations @keyframes
 - la console dans chrome
 
+### Pour ceux qui s'ennuient car ça va pas assez vite...
+
+* Posez vous la question de savoir à quoi ça peut bien servir ce fichier https://github.com/davidmarsprof/unserious-game/blob/main/styles/phone.css
+* Essayez de résoudre cette énigme https://github.com/davidmarsprof/unserious-game/blob/main/scripts/index.js
+
 ### Ressources utiles
 
 - https://www.bestcssbuttongenerator.com/
