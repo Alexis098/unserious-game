@@ -4,8 +4,6 @@ Le cours précédent on n'a pas eu le temps de trop avancer, donc plutôt que de
 On va doucement mais sûrement nettoyer notre projet et travailler un peu sur son UI / UX. 
 On va aborder les notions que l'on n'a pas eu le temps de voir au dernier cours et on prendra le temps de parler organisation.
 
-[Lire la suive](day-3.md)
-
 ### Au menu
 
 * petit tour de classe pour voir qui se sent à l'aise et qui a plus de mal.
