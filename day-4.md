@@ -10,7 +10,7 @@ On va parler pour ceux qui ne l'ont pas encore fait par eux même de responsive,
   * Maxime FRERE, Yvain DI COSTANZO, Brieux CAQUELIN et ... et ...
   * ils vont nous faire part de leurs difficultés à gérer 20 projets créés par 20 bipèdes.
   * ils vont nous présenter les problèmes techniques les plus courrants.
-  * ils vont nommer les 5 coordinateurs de la semaine suivante (2 personnes à l'aise, 2 en difficulté, 1 au pif si possible mixer des gens qui ne se connaissent pas trop pour favoriser les échanges)
+  * ils vont nommer les 5 coordinateurs de la semaine suivante (2 personnes à l'aise, 2 en difficulté, 1 au pif. Si possible mixer des gens qui ne se connaissent pas trop pour favoriser les échanges)
   * ils vont prendre le temps de leur expliquer en quoi consiste leur mission, leur donner des conseils etc..
   
 * On pulle, on ouvre nos éditeurs etc..
@@ -21,6 +21,14 @@ On va parler pour ceux qui ne l'ont pas encore fait par eux même de responsive,
 
 * En autonomie, on va essayer de mettre en pratique ce tuto https://www.codeur.com/blog/creer-animation-css/
 
+* Toujours en autonomie vous allez veiller à :
+
+  * Avoir des bontons qui ressemblent à des boutons (et pas à **mes** boutons) sur **toutes** vos questions
+  * Sur votre question *couleurs* veiller à bien me démontrer que vous savez gérer les couleurs
+  * Veiller à la lisibilité de vos questions et réponses
+  * Veiller aux effets de `hover` et `active`
+  * Veiller à ce que le lien vers le tableau suivant fonctionne, si ça ne fonctionne pas, c'est votre faute.
+ 
 * Après, on pratique
 * Puis on pratique,
 * Et on pratique encore
