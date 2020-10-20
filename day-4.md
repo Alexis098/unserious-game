@@ -1,4 +1,4 @@
-## Day 4 2020/10/26 :mask: :triangular_ruler: :turtle: 
+## Day 4 2020/10/26 :mask: :triangular_ruler: :art: :iphone: :rabbit2:
 
 Le cours précédent nous avons vu pas mal de nouvelles notions que nous allons approfondir par la pratique aujourd'hui.
 On va parler pour ceux qui ne l'ont pas encore fait par eux même de responsive, d'animation et de transition.
