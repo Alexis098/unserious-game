@@ -1,5 +1,5 @@
 | Prénom              | NOM              | GitHub                                                        | Unserious Game                                            |
-| ------------------- |:----------------:| -------------------------------------------------------------:| ---------------------------------------------------------:|
+| ------------------- |----------------  | ------------------------------------------------------------- | --------------------------------------------------------- |
 | Alexis              | HENG             | [Alexis098](https://github.com/Alexis098)                     | https://alexis098.github.io/unserious_game/index.html     |
 | Anaïs               | BISCARAS         | [Loulaty](https://github.com/Loulaty)                         | https://loulaty.github.io/unserious-game/index.html|
 | Anatole             | PAGNUCCO         | [anatole-P](https://github.com/anatole-P)                     | https://anatole-p.github.io/Programmation-HTML/index.html|
