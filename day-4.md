@@ -27,7 +27,7 @@ On va parler pour ceux qui ne l'ont pas encore fait par eux même de responsive,
   * Sur votre question *couleurs* veiller à bien me démontrer que vous savez gérer les couleurs
   * Veiller à la lisibilité de vos questions et réponses
   * Veiller aux effets de `hover` et `active`
-  * Veiller à ce que le lien vers le tableau suivant fonctionne, si ça ne fonctionne pas, c'est votre faute.
+  * Veiller à ce que le lien vers le tableau suivant fonctionne, si ça ne fonctionne pas, c'est votre faute. Vous êtes donc responsable que votre lien fonctionne et que votre voisin ne change pas d'url.
  
 * Après, on pratique
 * Puis on pratique,
