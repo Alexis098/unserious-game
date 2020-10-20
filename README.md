@@ -5,6 +5,9 @@ https://davidmarsprof.github.io/unserious-game/index.html
 
 Ensemble, par la pratique, nous allons construire un petit jeu qui nous permettra d'apprendre les bases en HTML, CSS et Javascript.
 
+## Notre team créative
+[Voir la liste](team.md)
+
 ## Day 1 2020/10/05 :mask: :computer: :wrench:
 
 ### Au menu
