@@ -12,7 +12,7 @@
 | Gaëtan              | CHATELIN         | [SpaceGarbage](https://github.com/SpaceGarbage)              | https://spacegarbage.github.io/UnseriousGame/index.html |
 | Grégoire            | FONTANELLI       | Mets à jour ton profil pour que je te trouve stp             |                                                          |
 | Jonas               | CHAMPOIRAL       | [monsieur-jonas](https://github.com/monsieur-jonas)          | https://monsieur-jonas.github.io/unserious-game/|
-| Loïc                | BARBATO          | Mets à jour ton profil pour que je te trouve stp             |                                                           |
+| Loïc                | BARBATO          | [hns707](https://github.com/hns707)                          | https://hns707.github.io/unseriousgame/                   |
 | Lucas               | MAZENC           | [Lmazenc34070](https://github.com/Lmazenc34070)              | https://lmazenc34070.github.io/Unserious_game/index.html  |
 | Maxime              | BALANSARD        | [Maxime-Balansard](https://github.com/Maxime-Balansard)      | ???? !                        |
 | Maxime              | FRERE            | Mets à jour ton profil pour que je te trouve stp             |                                                           |
