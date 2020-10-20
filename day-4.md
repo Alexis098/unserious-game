@@ -23,7 +23,7 @@ On va parler pour ceux qui ne l'ont pas encore fait par eux même de responsive,
 
 * Toujours en autonomie vous allez veiller à :
 
-  * Avoir des bontons qui ressemblent à des boutons (et pas à **mes** boutons) sur **toutes** vos questions
+  * Avoir des boutons qui ressemblent à des boutons (et pas à **mes** boutons) sur **toutes** vos questions
   * Sur votre question *couleurs* veiller à bien me démontrer que vous savez gérer les couleurs
   * Veiller à la lisibilité de vos questions et réponses
   * Veiller aux effets de `hover` et `active`
