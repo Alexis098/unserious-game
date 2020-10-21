@@ -7,7 +7,7 @@
 | Antoine             | DOUILLET         | [Douillet](https://github.com/Douillet)                       | https://douillet.github.io/unserious_game/index.html      |
 | Bilal               | DENNEL           | [dennelbilal](https://github.com/dennelbilal)                 | 404                            |
 | Brieux              | CAQUELIN         | [Brieux](https://github.com/Brieux)                           | https://brieux.github.io/unserious-game/Question1.html   |
-| Corentin            | HABIB            | [Corentin1998](https://github.com/Corentin1998)               | je suis perdu   |
+| Corentin            | HABIB            | [Corentin1998](https://github.com/Corentin1998)               | https://corentin1998.github.io/unseriousgame/ |
 | David               | BORIE            | [DavidBorie](https://github.com/DavidBorie)                  | ????                          |
 | Gaëtan              | CHATELIN         | [SpaceGarbage](https://github.com/SpaceGarbage)              | https://spacegarbage.github.io/UnseriousGame/index.html |
 | Grégoire            | FONTANELLI       | Mets à jour ton profil pour que je te trouve stp             |                                                          |
