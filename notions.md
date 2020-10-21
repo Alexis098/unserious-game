@@ -10,7 +10,7 @@
   * `2pt` La bonne réponse amène à une page *gagné*
   * `2pt` Les mauvaises réponses amènent à une page *perdu*
   * `2pt` *Essaye encore* renvoie vers la question précédente 
-  * `-5pt` Si lien cassé 
+  * `-5pt` Si lien cassé :warning:
 
 * `2pt` Dernière page gagné avec un lien qui mène au tableau suivant. Ce lien qui ne dépend pas que de vous (et c'est injuste) **DOIT** marcher
 
@@ -55,8 +55,8 @@
 
 * `1pt` Avoir un effet `:hover` sur vos boutons
 * `1pt` Avoir un effet `:active` sur vos boutons
-* `1pt` Avoir une `transition` sur l'état `:hover` de vos boutons
 * `1pt` Me démontrer que `@keyframes` en `animation-duration: infinite` ça vous parle.
+* `1pt` Avoir une `transition` sur l'état `:hover` de vos boutons :open_mouth:
 
 ### Signature en fixed 
 
@@ -70,7 +70,7 @@
 * `2pt` Commentaires de code HTML (je sais, on n'en a jamais parlé mais vous savez être autonomes hein?)
 * `2pt` Indentation du code (je n'ai pas de préférence en la matière, vous avez un cours de python, donc vous devez voir de quoi je parle)
 
-## WARNING
+## WARNING :warning:
 
 * `-5pt` ci vous faisez trau de phote daurtogrffe est de conjgézon
 * `-5pt` Si votre graphisme rend votre projet illisible, provoque des crises d'épilepsie, etc...
