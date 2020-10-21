@@ -1,6 +1,6 @@
 ## GitHub et travail collaboratif
 
-* `2pt` Avoir un profil à peu près complété et qui permette de vous identifier (à moins que vous ayez 1M de followers, il y a peu de chance que je connaisse vos pseudos) 
+* `2pt` Avoir un profil à peu près complété et qui permette de vous identifier (à moins que vous ayez 1M de followers, il y a peu de chances que je connaisse vos pseudos) 
 * `1pt` Avoir **un seul** nom de repo qui corresponde à notre jeu et un readme.md cohérent avec un lien...
 
 ## Navigation
