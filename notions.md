@@ -62,7 +62,7 @@
 ### Signature en fixed 
 
   * `1pt` Prénom NOM + href vers votre compte GitHub
-  * `1pt` typo, position, taille etc... **srictement** identique aux autres tableaux
+  * `1pt` typo, position, taille etc... **strictement** identiques aux autres tableaux
 
 ## Qualité et lisibilité du code
 
