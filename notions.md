@@ -11,7 +11,8 @@
   * `2pt` Les mauvaises réponses amènent à une page *perdu*
   * `2pt` *Essaye encore* renvoie vers la question précédente 
   * `-5pt` Si lien cassé :warning:
-  * `-5pt` Si lien en qui ouvre une nouvelle fenêtre :warning:
+  * `-5pt` Si lien qui ouvre une nouvelle fenêtre :warning:
+  * `-5pt` Si erreur de code HTML visible ( un `>` par exemple qui se balade dans l'écran ) :warning:
 
 * `2pt` Dernière page gagné avec un lien qui mène au tableau suivant. Ce lien qui ne dépend pas que de vous (et c'est injuste) **DOIT** marcher
 
