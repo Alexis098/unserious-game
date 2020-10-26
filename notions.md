@@ -10,7 +10,7 @@
   * `2pt` La bonne réponse amène à une page *gagné*
   * `2pt` Les mauvaises réponses amènent à une page *perdu*
   * `2pt` *Essaye encore* renvoie vers la question précédente 
-  * `-5pt` Si lien cassé :warning:
+  * `-5pt` Si lien cassé (ça concerne les liens entre les pages mais aussi les images qui ne s'affichent pas, les fonts etc...) :warning:
   * `-5pt` Si lien qui ouvre une nouvelle fenêtre :warning:
   * `-5pt` Si erreur de code HTML visible ( un `>` par exemple qui se balade dans l'écran ) :warning:
 
