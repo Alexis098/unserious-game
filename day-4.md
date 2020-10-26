@@ -2,6 +2,7 @@
 
 Le cours précédent nous avons vu pas mal de nouvelles notions que nous allons approfondir par la pratique aujourd'hui.
 On va parler pour ceux qui ne l'ont pas encore fait par eux même de responsive, d'animation et de transition.
+Ce cours clôture l'introduction à HTML et CSS. Je dis bien introduction car on pourrait y passer 3 ans sans en avoir fait le tour.
 
 ### Au menu
 
