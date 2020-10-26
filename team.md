@@ -9,7 +9,7 @@
 | Brieux              | CAQUELIN         | [Brieux](https://github.com/Brieux)                           | https://brieux.github.io/unserious-game/Question1.html   |
 | Corentin            | HABIB            | [Corentin1998](https://github.com/Corentin1998)               | https://corentin1998.github.io/unseriousgame/ |
 | David               | BORIE            | [DavidBorie](https://github.com/DavidBorie)                  | pas de lien dans le readme                          |
-| Gaëtan              | CHATELIN         | [SpaceGarbage](https://github.com/SpaceGarbage)               | https://spacegarbage.github.io/UnseriousGame/index.html |
+| Gaëtan              | CHATELIN         | [SpaceGarbage](https://github.com/SpaceGarbage)               | https://spacegarbage.github.io/UnseriousGame/index.html (cours JS)|
 | Grégoire            | FONTANELLI       | Mets à jour ton profil pour que je te trouve stp             |                                                          |
 | Jonas               | CHAMPOIRAL       | [monsieur-jonas](https://github.com/monsieur-jonas)           | https://monsieur-jonas.github.io/unserious-game/|
 | Loïc                | BARBATO          | [hns707](https://github.com/hns707)                           | https://hns707.github.io/unseriousgame/                   |
