@@ -45,4 +45,6 @@ Ce cours clôture l'introduction à HTML et CSS. Je dis bien introduction car on
 ## Day 5 2020/11/02 :mask: :clap:
 
 Pour finir cette introduction, on va écouter nos évangélistes de la semaine, 
-on va faire un point sur les projets corrigés et ensuite on passera à [la suite du cours ici...](https://github.com/davidmarsprof/pong) 
+on va faire un point sur les projets corrigés les faiblesse les plus rencontrées et les bonnes choses aussi.
+Pour faire la laison avec le cours suivant sur javascript on va regarder [un de vos projets](https://spacegarbage.github.io/UnseriousGame/).
+Puis on passera à [la suite du cours ici...](https://github.com/davidmarsprof/pong)
