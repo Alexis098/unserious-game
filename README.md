@@ -41,3 +41,8 @@ On va parler (pour ceux qui ne l'ont pas encore fait par eux même) de responsiv
 Ce cours clôture l'introduction à HTML et CSS. Je dis bien introduction car on pourrait y passer 3 ans sans en avoir fait le tour.
 
 [Lire la suite](day-4.md)
+
+## Day 5 2020/11/02 :mask: :clap:
+
+Pour finir cette introduction, on va écouter nos évangélistes de la semaine, 
+on va faire un point sur les projets corrigés et ensuite on passera à [la suite du cours ici...](https://github.com/davidmarsprof/pong) 
